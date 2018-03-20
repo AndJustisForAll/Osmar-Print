@@ -1,0 +1,13 @@
+.inputNumber{
+	border-style: none;
+	margin-right: 5px;
+	width: 50px;
+	border-radius: 4px;
+	background: gray;
+	padding: 5px;
+	color: white;
+}
+
+.tableButtons{
+	display: inline;
+}

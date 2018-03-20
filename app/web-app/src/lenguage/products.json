@@ -1,0 +1,59 @@
+{
+
+"espanol": {
+        "len": "spanish",
+        "title": "Productos",
+        "btnNew": "Nuevo",
+        "btnUpdate": "Modificar",
+        "btnDelete": "Eliminar",
+        "headers": {
+           "product": "Producto",
+           "quantity": "Cantidad",
+           "reorder": "Reorden",
+           "update": "Modificar",
+           "delete": "Eliminar"
+        } ,
+        "back": "Anterior",
+        "next": "Siguiente",
+        "modalAdd": "Agregar",
+        "modalUpdate": "Actualizar",
+        "modal":{
+           "title": "Agregar",
+           "titleU": "Modificar",
+           "name": "Nombre",
+           "quantity": "Cantidad",
+           "reorder": "Reorden",
+           "btnAccept": "Aceptar",
+           "btnClose": "Cerrar"
+        }
+   },
+
+   "ingles": {
+        "len": "english",
+        "title": "Products",
+        "btnNew": "New",
+        "btnUpdate": "Update",
+        "btnDelete": "Delete",
+        "headers": {
+           "product": "Products",
+           "quantity": "Quantity",
+           "reorder": "Reorder",
+           "update": "Update",
+           "delete": "Delete"
+         },
+        "back": "Back",
+        "next": "Next",
+        "modalAdd": "Add",
+        "modalUpdate": "Update",
+        "modal":{
+           "title": "Add",
+           "titleU": "Update",
+           "name": "Name",
+           "quantity": "Quantity",
+           "reorder": "Reorder",
+           "btnAccept": "Accept",
+           "btnClose": "Close"
+        }
+   }
+
+}

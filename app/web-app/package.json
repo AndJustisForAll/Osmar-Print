@@ -1,0 +1,48 @@
+{
+  "name": "web-app",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": {
+    "/login": {
+      "target": "http://localhost:5000"
+    },
+    "/prod": {
+      "target": "http://localhost:5000"
+    },
+    "/users": {
+      "target": "http://localhost:5000"
+    },
+    "/update_product": {
+      "target": "http://localhost:5000"
+    },
+    "/register_product": {
+      "target": "http://localhost:5000"
+    },
+    "/delete": {
+      "target": "http://localhost:5000"
+    },
+    "/inputs_outputs": {
+      "target": "http://localhost:5000"
+    },
+    "/view": {
+      "target": "http://localhost:5000"
+    }
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.1",
+    "react-transition-group": "^1.2.1",
+    "reactstrap": "^4.8.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

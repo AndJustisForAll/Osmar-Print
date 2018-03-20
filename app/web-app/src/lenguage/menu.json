@@ -1,0 +1,36 @@
+{
+  "espanol":{
+    "len": "spanish",
+    "home": "Administrador",
+    "users": "Usuarios",
+    "products": "Productos",
+    "reports": "Reportes",
+    "rep": {
+      "inputs": "Entradas",
+      "outputs": "Salidas"
+    },
+    "lenguage": "Idioma",
+    "len":{
+      "esp": "Español",
+      "en": "Ingles"
+    },
+    "search": "Buscar"
+  },
+  "ingles":{
+    "len": "english",
+    "home": "Administrator",
+    "users": "Users",
+    "products": "Products",
+    "reports": "Reports",
+    "rep": {
+      "inputs": "Inputs",
+      "outputs": "Outputs"
+    },
+    "lenguage": "Lenguage",
+    "len":{
+      "esp": "Spanish",
+      "en": "English"
+    },
+    "search": "Search"
+  }
+}
